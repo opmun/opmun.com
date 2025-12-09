@@ -36,7 +36,7 @@ To ensure Opmun remains optimal, we are governed by immutable logical laws:
 
 This repository contains the source code for the official Opmun platform (`opmun.com`).
 
-* **Framework:** Next.js 14+ (App Router)
+* **Framework:** Next.js 16+ (App Router)
 * **Styling:** Tailwind CSS
 * **Deployment:** Vercel
 
@@ -44,7 +44,8 @@ This repository contains the source code for the official Opmun platform (`opmun
 
 ```bash
 # Clone the repository
-git clone [https://github.com/opmun/opmun-platform.git](https://github.com/opmun/opmun-platform.git)
+
+git clone [https://github.com/opmun/opmun.com.git](https://github.com/opmun/opmun.com.git)
 
 # Install dependencies
 npm install

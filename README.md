@@ -45,7 +45,7 @@ This repository contains the source code for the official Opmun platform (`opmun
 ```bash
 # Clone the repository
 
-git clone [https://github.com/opmun/opmun.com.git](https://github.com/opmun/opmun.com.git)
+git clone https://github.com/opmun/opmun.com.git
 
 # Install dependencies
 npm install
